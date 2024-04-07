@@ -2,13 +2,13 @@
   "name": "Summary-Master",
   "version": "1.0.0",
   "description": "Summary-Master-Node-ContactUsEmail",
-  "main": "CntactUsEmail.js",
+  "main": "ContactUsEmail.js",
   "repository": "https://github.com/OmRamani98/Summary-Master-Node-ContactUsEmail.git",
   "author": "Om Ramani",
   "license": "MIT",
   "private": false,
   "scripts": {
-    "start": "CntactUsEmail.js"
+    "start": "ContactUsEmail.js"
   },
   "dependencies": {
     "body-parser": "^1.19.0",
